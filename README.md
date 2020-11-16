@@ -1,4 +1,4 @@
-docs-mysql
+<h1> VMware has ended active development of this project, this repository will no longer be updated.</h1><br>docs-mysql
 ==========
 
 Docs for MySQL for [Pivotal Cloud Foundry](https://network.pivotal.io/products/pivotal-cf) (PCF)
